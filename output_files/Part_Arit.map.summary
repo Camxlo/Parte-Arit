@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Thu Dec 22 19:29:31 2022
+Quartus II 64-Bit Version : 13.1.0 Build 162 10/23/2013 SJ Web Edition
+Revision Name : Part_Arit
+Top-level Entity Name : Part_Arit
+Family : Cyclone III
+Total logic elements : 29
+    Total combinational functions : 29
+    Dedicated logic registers : 0
+Total registers : 0
+Total pins : 18
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
